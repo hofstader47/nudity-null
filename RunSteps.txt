@@ -1,0 +1,6 @@
+Steps to get started:-
+=> cd to the folder
+=> npm i
+=> npm -i express
+=> npm -i nodemon
+=> npm run dev
